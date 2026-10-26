@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://buckyproducts.github.io/sitemap.xml
+Sitemap: https://buckyproducts.github.io/shop/sitemap.xml
